@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jbg93.github.io/portfolio/sitemap.xml
+Sitemap: https://jbg93.github.io/portfolio/portfolio//sitemap.xml
